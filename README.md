@@ -36,4 +36,5 @@ Step 4: Changes in html template <br/>
             
 Step 5: That's it !!!
 
+Credits and Reference : https://github.com/driftyco/ionic-ion-drawer <br/>
 Enjoy the coding. :)
