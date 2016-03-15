@@ -5,8 +5,8 @@ Step 1: download the zip file and extract
 
 Step 2: Load JS & CSS in project <br/>
         ex:
-        ```<script src="js/Drawer/IonicDrawer.js"></script>
-                <link href="css/drawer.css" rel="stylesheet">```
+        ```<script src="js/Ionic.Native.Sidemenu.js"></script>
+                <link href="css/ionicNativeMenu.css" rel="stylesheet">```
    
 Step 3: Declare 'ionic.contrib.drawer' in app module <br/>
         ex: var app = angular.module('Demo',['ionic','ionic.contrib.drawer']);
