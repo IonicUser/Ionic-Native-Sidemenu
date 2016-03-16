@@ -17,10 +17,10 @@ Step 4: Changes in html template <br/>
                 <ion-side-menus>
                      <ion-side-menu-content>
                       <ion-nav-bar class="bar-positive-900">
-                        <ion-nav-back-button class="no-text" ng-hide="isVisible" ng-click="backToPreviousPage();">
+                        <ion-nav-back-button class="no-text" ng-click="backToPreviousPage();">
                         </ion-nav-back-button>
                         <ion-nav-buttons side="left">
-                          <button ng-show="isVisible" class="button button-icon button-clear ion-android-menu" menu-and-drawer-toggle>
+                          <button class="button button-icon button-clear ion-android-menu" menu-and-drawer-toggle>
                           </button>
                         </ion-nav-buttons>
                       </ion-nav-bar>
