@@ -9,7 +9,7 @@
 
   'use strict';
 
-  angular.module('ionic.contrib.drawer', ['ionic'])
+  angular.module('ionic.contrib.NativeDrawer', ['ionic'])
 
     .controller('drawerCtrl', ['$rootScope', '$scope', '$element', '$attrs', '$ionicGesture', '$ionicBody', '$document', function($rootScope, $scope, $element, $attr, $ionicGesture, $ionicBody, $document) {
       var el = document.querySelectorAll("drawer")[0];
