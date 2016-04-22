@@ -4,14 +4,16 @@ Native side menu for Ionic Apps
 
 Step 1: download the zip file and extract
 
-Step 2: Load JS & CSS in project
+Step 2: Load JS & CSS in project <br/>
         ex: 
 		
 		<script src="js/NativeSideMenu.js"></script>
         <link href="css/NativeSideMenu.css" rel="stylesheet">
    
-Step 3: Declare 'ionic.contrib.NativeDrawer' in app module
-        ex: var app = angular.module('Demo',['ionic','ionic.contrib.NativeDrawer']);
+Step 3: Declare 'ionic.contrib.NativeDrawer' in app module <br/>
+        ex: 
+		
+		var app = angular.module('Demo',['ionic','ionic.contrib.NativeDrawer']);
         
 Step 4: Changes in html template 
 
